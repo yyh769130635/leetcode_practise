@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_faceObject" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -167,6 +167,10 @@
       <workItem from="1596074062723" duration="4227000" />
       <workItem from="1596416939569" duration="6438000" />
       <workItem from="1596431215313" duration="3896000" />
+      <workItem from="1596519012309" duration="1632000" />
+      <workItem from="1596522113892" duration="719000" />
+      <workItem from="1596533200338" duration="907000" />
+      <workItem from="1596538124778" duration="31000" />
     </task>
     <servers />
   </component>
@@ -191,11 +195,13 @@
     </state>
     <state x="498" y="171" key="#Notifications/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596078005235" />
     <state x="2518" y="231" key="#Notifications/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596083443253" />
-    <state x="-1478" y="-77" key="FileChooserDialogImpl" timestamp="1596438664487">
-      <screen x="-1920" y="-126" width="1536" height="920" />
+    <state x="442" y="49" key="FileChooserDialogImpl" timestamp="1596538140311">
+      <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="-1478" y="-77" key="FileChooserDialogImpl/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438664487" />
     <state x="368" y="36" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1595983903797" />
+    <state x="442" y="49" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1596533219776" />
+    <state x="442" y="49" key="FileChooserDialogImpl/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1596538140311" />
     <state width="1225" height="153" key="GridCell.Tab.0.bottom" timestamp="1596438672441">
       <screen x="-1920" y="-126" width="1536" height="920" />
     </state>
