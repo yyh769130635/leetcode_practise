@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -55,7 +55,7 @@
       <recent name="C:\Users\YGP2SZH\Desktop\bosch\leetcode_practise\leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.获取字符串中出现次数最多的字母，次数相同的取最小的字母">
     <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="获取字符串中出现次数最多的字母，次数相同的取最小的字母" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode_practise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/笔试" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/归并排序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/笔试/获取字符串中出现次数最多的字母，次数相同的取最小的字母.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,6 +114,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/322. 零钱兑换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="归并排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode_practise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/归并排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,8 +234,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.获取字符串中出现次数最多的字母，次数相同的取最小的字母" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.归并排序" />
         <item itemvalue="Python.冒泡排序" />
         <item itemvalue="Python.322. 零钱兑换" />
       </list>
@@ -244,6 +266,7 @@
       <workItem from="1597130957651" duration="3702000" />
       <workItem from="1597145605735" duration="2300000" />
       <workItem from="1597195777099" duration="4591000" />
+      <workItem from="1597473938341" duration="5029000" />
     </task>
     <servers />
   </component>
@@ -275,34 +298,38 @@
     <state x="368" y="36" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1595983903797" />
     <state x="442" y="49" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1596533219776" />
     <state x="442" y="49" key="FileChooserDialogImpl/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206592386" />
-    <state width="1481" height="282" key="GridCell.Tab.0.bottom" timestamp="1597206802573">
+    <state width="1481" height="213" key="GridCell.Tab.0.bottom" timestamp="1597628980848">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1225" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438672441" />
     <state width="1225" height="153" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596432916304" />
     <state width="1206" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596425246612" />
-    <state width="1481" height="282" key="GridCell.Tab.0.bottom/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206802573" />
-    <state width="1481" height="282" key="GridCell.Tab.0.center" timestamp="1597206802573">
+    <state width="1481" height="213" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1597628980848" />
+    <state width="1481" height="213" key="GridCell.Tab.0.bottom/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597480779436" />
+    <state width="1481" height="213" key="GridCell.Tab.0.center" timestamp="1597628980848">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1225" height="153" key="GridCell.Tab.0.center/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438672441" />
     <state width="1225" height="153" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596432916303" />
     <state width="1206" height="150" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596425246612" />
-    <state width="1481" height="282" key="GridCell.Tab.0.center/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206802573" />
-    <state width="1481" height="282" key="GridCell.Tab.0.left" timestamp="1597206802573">
+    <state width="1481" height="213" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1597628980848" />
+    <state width="1481" height="213" key="GridCell.Tab.0.center/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597480779436" />
+    <state width="1481" height="213" key="GridCell.Tab.0.left" timestamp="1597628980848">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1225" height="153" key="GridCell.Tab.0.left/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438672441" />
     <state width="1225" height="153" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596432916301" />
     <state width="1206" height="150" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596425246612" />
-    <state width="1481" height="282" key="GridCell.Tab.0.left/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206802573" />
-    <state width="1481" height="282" key="GridCell.Tab.0.right" timestamp="1597206802573">
+    <state width="1481" height="213" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1597628980848" />
+    <state width="1481" height="213" key="GridCell.Tab.0.left/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597480779436" />
+    <state width="1481" height="213" key="GridCell.Tab.0.right" timestamp="1597628980848">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state width="1225" height="153" key="GridCell.Tab.0.right/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438672441" />
     <state width="1225" height="153" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596432916303" />
     <state width="1206" height="150" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596425246612" />
-    <state width="1481" height="282" key="GridCell.Tab.0.right/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206802573" />
+    <state width="1481" height="213" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1597628980848" />
+    <state width="1481" height="213" key="GridCell.Tab.0.right/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597480779436" />
     <state width="1481" height="282" key="GridCell.Tab.1.bottom" timestamp="1597206802573">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -342,11 +369,6 @@
           <line>22</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/leetcode/test.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -354,9 +376,9 @@
     <SUITE FILE_PATH="coverage/leetcode_practise$30__.coverage" NAME="30. 串联所有单词的子串 Coverage Results" MODIFIED="1596418507808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/leetcode_practise$33__.coverage" NAME="33. 搜索旋转排序数组 Coverage Results" MODIFIED="1596775035069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/leetcode_practise$322__.coverage" NAME="322. 零钱兑换 Coverage Results" MODIFIED="1596776028773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/leetcode_practise$test.coverage" NAME="test Coverage Results" MODIFIED="1597199376703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/leetcode_practise$test.coverage" NAME="test Coverage Results" MODIFIED="1597479822044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/leetcode_practise$11.coverage" NAME="11盛最多水的容器 Coverage Results" MODIFIED="1595925952090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/leetcode_practise$31__.coverage" NAME="31. 下一个排列 Coverage Results" MODIFIED="1596423959071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/leetcode_practise$.coverage" NAME="归并排序 Coverage Results" MODIFIED="1597196751110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/leetcode_practise$.coverage" NAME="获取字符串中出现次数最多的字母，次数相同的取最小的字母 Coverage Results" MODIFIED="1597480779421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/笔试" />
   </component>
 </project>
