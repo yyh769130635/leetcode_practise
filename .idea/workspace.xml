@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myProject" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -266,7 +266,7 @@
       <workItem from="1597130957651" duration="3702000" />
       <workItem from="1597145605735" duration="2300000" />
       <workItem from="1597195777099" duration="4591000" />
-      <workItem from="1597473938341" duration="5029000" />
+      <workItem from="1597473938341" duration="5297000" />
     </task>
     <servers />
   </component>
@@ -291,12 +291,12 @@
     </state>
     <state x="498" y="171" key="#Notifications/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1596078005235" />
     <state x="2518" y="231" key="#Notifications/0.0.1280.680/1920.0.1536.920@1920.0.1536.920" timestamp="1596083443253" />
-    <state x="442" y="49" key="FileChooserDialogImpl" timestamp="1597206592386">
+    <state x="442" y="49" key="FileChooserDialogImpl" timestamp="1597629252083">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="-1478" y="-77" key="FileChooserDialogImpl/0.0.1280.680/-1920.-126.1536.920@-1920.-126.1536.920" timestamp="1596438664487" />
     <state x="368" y="36" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1536.920@0.0.1280.680" timestamp="1595983903797" />
-    <state x="442" y="49" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1596533219776" />
+    <state x="442" y="49" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1597629252083" />
     <state x="442" y="49" key="FileChooserDialogImpl/1920.125.1280.687/0.0.1536.920@0.0.1536.920" timestamp="1597206592386" />
     <state width="1481" height="213" key="GridCell.Tab.0.bottom" timestamp="1597628980848">
       <screen x="0" y="0" width="1536" height="920" />
