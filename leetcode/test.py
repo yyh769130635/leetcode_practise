@@ -1,23 +1,10 @@
-# -*- coding: utf-8 -*-
-# @Time : 8/12/2020 10:27 AM
-# @Author : Peter yang
+# # -*- coding: utf-8 -*-
+# # @Time : 8/12/2020 10:27 AM
+# # @Author : Peter yang
+from collections import Counter
 
-s = "aaaaaaa"
-wordDict = ["aaaa", "aaa"]
-
-n = len(s)
-# if n <= 1:
-#     return s in wordDict
-
-i = j = 0
-while j < n:
-    temp = s[i:j+1]
-    if s[i:j + 1] in wordDict:
-        j += 1
-        i = j
-    else:
-        j += 1
-if i == n:
-    print("True")
-else:
-    print("False")
+nums = [2, 2, 1, 1, 1, 3]
+temp = Counter(nums)
+# 按value排序
+a = sorted(temp, key=lambda x: temp[x], reverse=True)[:2]
+print(a)
